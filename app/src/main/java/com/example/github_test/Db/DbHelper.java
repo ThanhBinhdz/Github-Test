@@ -6,5 +6,5 @@ public class DbHelper {
     String b = "haodz";
     String c ="hahaha";
     String e ="hahahahaha";
-
+    String l = "binhdz";
 }
