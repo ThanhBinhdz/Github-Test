@@ -5,4 +5,6 @@ public class DbHelper {
     String hihi = "abc";
     String b = "haodz";
     String c ="hahaha";
+    String e ="hahahahaha";
+
 }
